@@ -1,7 +1,7 @@
 let innerText = document.querySelector(".wrapper__love-text");
 let wrapper = document.querySelector(".wrapper");
 
-const textBackground = "LOVE";
+const textBackground = "Hello bạn trẻ";
 
 const textBlotter = (name) => {
   return new Blotter.Text(name, {
